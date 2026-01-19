@@ -13,3 +13,5 @@ dfassi/
 !requirements.txt
 
 .env
+
+dfassi/
